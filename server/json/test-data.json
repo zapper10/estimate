@@ -1,0 +1,12 @@
+{
+    "user" : [
+        {
+            "key" : "11"
+            , "type" : "S"
+            , "name" : "박미향"
+            , "phone" : "01012345678"
+            , "dept" : "컴퓨터공학과"
+            , "photo" : "http://tis.kbu.ac.kr/patis/system/FileController.do?methodName=view&filePath=Patis/Upload/haksa/haksaengImg/2015/1505005.jpg"
+        }
+    ]
+}
